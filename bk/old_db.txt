@@ -1,5 +1,0 @@
-    <add name="DefaultConnection" connectionString="Data Source=C:\\Users\\shaisha\\source\\repos\\VirtualMuseum\\VirtualMuseum\\App_Data\\LogInDatabase-2023.mdb;User Id=admin;Password=;"
-    providerName="Microsoft.Jet.OLEDB.4.0" />
-    <add name="VirtualMuseum"
-    connectionString="Data Source=C:\\Users\\shaisha\\source\\repos\\VirtualMuseum\\VirtualMuseum\\App_Data\\LogInDatabase.mdb;User Id=admin;Password=;"
-    providerName="Microsoft.Jet.OLEDB.4.0" />
