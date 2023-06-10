@@ -54,7 +54,7 @@ namespace VirtualMuseum.Models
                     "Dayan studied painting with the painter Meir Natif, and since then has been painting from observation and exploration of the environment. Dayan's paintings vary between several styles - realistic, abstract, naive art and more, and she usually paints mainly in the technique of oil paints on canvas. " +
                     "Dayan usually depicts a wide variety of subjects in her paintings, including paintings of people, landscapes, still life, and more, all from a deep observation and attraction to aesthetics. Dayans paintings are full of emotion and expression. Aliza Dayan presented in several exhibitions in Israel," +
                     "and is also a member of the Mosaic Artists Association in Israel.",
-                    ImagePath= "rocket.png", // "Mishkenot_7.png",
+                    ImagePath= "Mishkenot_7.png",
                     UnitPrice = 2300.00,
                     ItemTypeID = 1 // Painting. 
                },
